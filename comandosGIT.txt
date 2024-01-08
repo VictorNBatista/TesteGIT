@@ -7,4 +7,4 @@ git branch -M "nome"   - renomeia a branch (usualmente se altera o nome da branc
 git remote add origin "link do repositorio no github"   -  linka o repositorio local criado anteriormente com o repositorio remoto do github. Origin (nome dado ao repositorio)
 git push -u origin main   - adiciona os arquivos do repositorio local no repositorio do github (primeira vez)
 git push origin main   - adiciona/atualiza os arquivos no repositorio do github (a partir da segunda vez)
-git checkout -b "nomedabranch"   - cria uma nova branch para novas alteracoes (criar antes de realizar as modificacoes)
+git checkout -b "nomedabranch"   - cria uma nova branch para novas alteracoes (criar antes de realizar as modificacoes). Pode ser utilizado para alternar entre as branches
