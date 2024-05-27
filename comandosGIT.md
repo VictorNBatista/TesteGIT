@@ -4,6 +4,10 @@ git init                                                - inicia um novo reposit
 
 ## ============================================//============================================ ##
 
+git remote add origin link do repositorio no github     -  linka o repositorio local criado anteriormente com o repositorio remoto do github. Origin (nome dado ao repositorio)
+
+## ============================================//============================================ ##
+
 git add nomearquivo.extensao                            - manda o arquivo especificado para o staging do repositorio
 
 ## ============================================//============================================ ##
@@ -21,10 +25,6 @@ git commit -m "mensagem do commit"                      - commita os arquivos pr
 ## ============================================//============================================ ##
 
 git branch -M nome                                      - renomeia a branch (usualmente se altera o nome da branch "master" para "main")
-
-## ============================================//============================================ ##
-
-git remote add origin link do repositorio no github     -  linka o repositorio local criado anteriormente com o repositorio remoto do github. Origin (nome dado ao repositorio)
 
 ## ============================================//============================================ ##
 
